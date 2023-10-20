@@ -1,0 +1,8 @@
+.box-home{
+    /* background-image: url("/cover_page.png"); */
+    position: absolute;
+    top: 58.54px;
+    left: 0;
+    height: calc(100vh - 58.54px);
+    width: 100%;
+}
